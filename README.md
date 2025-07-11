@@ -31,7 +31,7 @@ Then visit [http://localhost:8000](http://localhost:8000)
 1. Create a new repository on GitHub and push your files.
 2. Go to the repository settings > Pages.
 3. Set the source to the `main` branch (or `master`) and root (`/`).
-4. Your site will be live at `https://yourusername.github.io/repository-name/`.
+4. Your site will be live at `https://bimcodes.github.io/portfolio/`.
 
 ---
 
